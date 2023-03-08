@@ -1,0 +1,131 @@
+name,position,departments
+Scott Aaronson,'Professor, David Bruton, Jr. Centennial Professorship in Computer Sciences #2','Theoretical Computer Science'
+Sarah Abraham,'Assistant Professor of Instruction','Graphics and Visualization'
+Aditya Akella,'Professor, Regents Chair in Computer Sciences #1','Computer Architecture','Operating Systems, Distributed Systems, and Networking'
+Lorenzo Alvisi,'Professor Emeritus in Computer Sciences #5, Distinguished Teaching Professor Emeritus','Operating Systems, Distributed Systems, and Networking'
+Joshua Baer,'Entrepreneur in Residence',
+Chandrajit Bajaj,'Professor, Computational Applied Mathematics Chair in Visualization','Bioinformatics and Computational Biology','Graphics and Visualization','Machine Learning','Scientific Computing'
+Don Batory ,'Professor Emeritus, David Bruton, Jr. Centennial Professorship In Computer Sciences #1','Formal Methods','Programming Languages and Compilers','Scientific Computing'
+Angela Beasley,'Assistant Professor of Instruction',
+Joydeep Biswas,'Assistant Professor','Artificial Intelligence','Intelligent Robotics'
+James Bornholt,'Assistant Professor','Formal Methods','Operating Systems, Distributed Systems, and Networking','Programming Languages and Compilers'
+Robert Boyer,'Professor Emeritus in Computer Science #4, Professor Emeritus in Computer Science #5',
+William Bulko,'Assistant Professor of Instruction','Artificial Intelligence'
+Siddhartha Chatterjee,'Professor of Instruction','Computer Architecture','Programming Languages and Compilers','Scientific Computing'
+Swarat Chaudhuri,'Associate Professor','Artificial Intelligence','Formal Methods','Programming Languages and Compilers'
+Shuchi Chawla,'Professor, Professorship in Computer Sciences #2','Theoretical Computer Science'
+Vijay Chidambaram,'Associate Professor','Computer Architecture','Operating Systems, Distributed Systems, and Networking'
+Eunsol Choi,'Assistant Professor','Artificial Intelligence','Machine Learning','Natural Language Processing'
+Alan Cline,'David Bruton, Jr. Centennial Professor Emeritus in Computer Sciences #2, Distinguished Teaching Professor Emeritus',
+Inderjit Dhillon,'Gottesman Family Centennial Professorship In Computer Sciences','Artificial Intelligence','Bioinformatics and Computational Biology','Machine Learning','Scientific Computing'
+Işıl Dillig,'Professor','Artificial Intelligence','Formal Methods','Operating Systems, Distributed Systems, and Networking','Programming Languages and Compilers','Security and Privacy'
+Glenn Downing,'Assistant Professor of Instruction',
+Greg Durrett,'Assistant Professor','Artificial Intelligence','Machine Learning','Natural Language Processing'
+E. Allen Emerson,'Regents Chair Emeritus in Computer Science #2','Formal Methods'
+Konstantinos Ferles,'Postdoctoral Researcher',
+Fares Fraij,'Assistant Professor of Instruction ',
+Keith Fritz,'Research Engineer / Science Associate I','Human-Computer Interaction','Intelligent Robotics'
+Don Fussell,'Department Chair, Professor, Trammell Crow Regents Professorship in Computer Science','Computer Architecture','Graphics and Visualization'
+Anna Gal,'Professor','Theoretical Computer Science'
+Ahmed Gheith,'Adjunct Assistant Professor',
+Hans Ulrich Grasemann,'Research Scientist','Artificial Intelligence'
+Kristen Grauman,'Professor, Professorship in Computer Sciences #4','Artificial Intelligence','Computer Vision','Graphics and Visualization','Machine Learning'
+Zeyu Guo,'Postdoctoral Researcher',
+Mikyung Han,'Associate Professor of Instruction','Operating Systems, Distributed Systems, and Networking'
+Justin Hart,'Assistant Professor of Practice','Artificial Intelligence','Human-Computer Interaction','Intelligent Robotics'
+David Harwath,'Assistant Professor','Artificial Intelligence','Computer Vision','Machine Learning','Natural Language Processing'
+Qixing Huang,'Associate Professor','Artificial Intelligence','Computer Vision','Graphics and Visualization'
+Shih-Han Hung,'Postdoctoral Researcher','Theoretical Computer Science'
+Warren Hunt Jr. ,'Professor','Bioinformatics and Computational Biology','Computer Architecture','Formal Methods'
+Nick Hunter-Jones,'Assistant Professor','Theoretical Computer Science'
+Alexander Huth,'Assistant Professor','Artificial Intelligence','Bioinformatics and Computational Biology','Machine Learning'
+Oliver Jensen,'Adjunct Assistant Professor',
+ Qijia Jiang,'Postdoctoral Researcher','Machine Learning','Theoretical Computer Science'
+MJ Johns,'Assistant Professor of Instruction',
+Stephen Keckler,'Adjunct Professor',
+Daehyeok Kim,'Assistant Professor','Operating Systems, Distributed Systems, and Networking'
+Adam Klivans,'Professor','Artificial Intelligence','Machine Learning','Theoretical Computer Science'
+Philipp Krähenbühl,'Associate Professor','Artificial Intelligence','Computer Vision','Graphics and Visualization','Machine Learning'
+Benjamin Kuipers,'Professor Emeritus','Artificial Intelligence','Intelligent Robotics'
+Devdatta Kulkarni,'Assistant Professor of Instruction',
+Simon Lam,"Regents' Chair Emeritus in Computer Sciences #1",'Operating Systems, Distributed Systems, and Networking','Security and Privacy'
+Karen Landolt,'Assistant Professor of Instruction',
+Vladimir Lifschitz,'Professor Emeritus, Professorship in Computer Sciences #2','Artificial Intelligence','Formal Methods'
+Calvin Lin,'Professor','Computer Architecture','Parallel Computing','Programming Languages and Compilers','Security and Privacy'
+Qiang Liu,'Assistant Professor, Faculty Fellowship #7 in Computer Science','Artificial Intelligence','Machine Learning'
+Roberto Martin-Martin,'Assistant Professor','Artificial Intelligence','Intelligent Robotics'
+Ken McMillan,'Professor, Admiral B.R. Inman Centennial Chair in Computing Theory','Formal Methods','Programming Languages and Compilers'
+Risto Miikkulainen,'Professor','Artificial Intelligence','Bioinformatics and Computational Biology','Machine Learning'
+Anders Miltner,'Postdoctoral Researcher','Programming Languages and Compilers'
+Daniel P.  Miranker,'Professor','Bioinformatics and Computational Biology'
+Reuth Mirsky,'Postdoctoral Fellow',
+Jayadev Misra,'Schlumberger Centennial Chair Emeritus and University Distinguished Teaching Professor Emeritus','Formal Methods'
+Shyamal Mitra,'Associate Professor of Instruction','Scientific Computing'
+Aloysius K. Mok,'Professor, Quincy Lee Centennial Professorship In Computer Science','Operating Systems, Distributed Systems, and Networking'
+Raymond Mooney,'Professor, Professorship In Computer Sciences #3','Artificial Intelligence','Bioinformatics and Computational Biology','Machine Learning','Natural Language Processing'
+J Strother Moore,'Admiral B.R. Inman Centennial Chair Emeritus in Computing Theory',
+Dana Moshkovitz,'Associate Professor','Theoretical Computer Science'
+Margaret Myers,'Lecturer','Formal Methods','Scientific Computing'
+Shravan Narayan,'Assistant Professor','Formal Methods','Programming Languages and Compilers','Security and Privacy'
+Scott Niekum,'Associate Professor, Faculty Fellowship #9 In Computer Sciences','Artificial Intelligence','Intelligent Robotics','Machine Learning'
+Alison Norman,' Associate Professor of Instruction',
+Gordon Novak,'Professor','Artificial Intelligence'
+J Marcos Palacios,'Assistant Professor of Instruction',
+Devangi Parikh,'Assistant Professor of Instruction',
+Amy Pavel,'Assistant Professor','Artificial Intelligence','Graphics and Visualization','Human-Computer Interaction','Natural Language Processing'
+Simon Peter,'Assistant Professor, Faculty Fellowship #10 In Computer Sciences','Operating Systems, Distributed Systems, and Networking'
+Tina Peterson,'Assistant Professor of Instruction',
+Keshav Pingali,'Professor, W.A."Tex" Moncrief Chair of Grid and Distributed Computing','Parallel Computing','Programming Languages and Compilers','Scientific Computing'
+Greg Plaxton,'Professor','Theoretical Computer Science'
+Bruce Porter,'Professor',
+Bill Press,'Professor','Bioinformatics and Computational Biology'
+Eric Price,'Associate Professor','Theoretical Computer Science'
+Melinda Price,'Executive Director of Commercialization of Health Ecosystem at Dell Medical School and Managing Director of Texas Health CoLab',
+Lili Qiu,'Professor','Operating Systems, Distributed Systems, and Networking'
+Vijaya Ramachandran,'Professor, William Blakemore II Regents Professorship In Computer Sciences','Theoretical Computer Science'
+Carol Ramsey,'Assistant Professor of Instruction',
+Christopher Rossbach,'Associate Professor','Computer Architecture','Operating Systems, Distributed Systems, and Networking','Parallel Computing'
+Michael Scott,'Professor of Instruction',
+Hovav Shacham,'Professor, Professorship in Computer Sciences #5','Operating Systems, Distributed Systems, and Networking','Security and Privacy'
+Supreeth Shastri,'Postdoctoral Fellow',
+Shahaf Shperberg,'Postdoctoral Fellow','Artificial Intelligence','Intelligent Robotics'
+Calvin Smith,'Postdoctoral Researcher','Machine Learning'
+Peter Stone,'David Bruton, Jr. Centennial Professor and University Distinguished Teaching Professor','Artificial Intelligence','Intelligent Robotics','Machine Learning'
+Yoonchang Sung,'Postdoctoral Fellow','Artificial Intelligence','Intelligent Robotics'
+Kia Teymourian,'Assistant Professor of Instruction',
+Kevin Tian,'Assistant Professor','Machine Learning','Theoretical Computer Science'
+Paul Toprac,'Professor of Instruction',
+Ananya Uppal,'Postdoctoral Researcher',
+Robert van de Geijn,'Professor',
+Corrie Van Sice,'Research Scientist Associate','Human-Computer Interaction','Intelligent Robotics'
+Field G. Van Zee,'Research Scientist','Scientific Computing'
+Etienne Vouga,'Associate Professor','Graphics and Visualization','Scientific Computing'
+Garrett Warnell,'Visiting Researcher','Artificial Intelligence','Computer Vision','Intelligent Robotics','Machine Learning'
+Brent Waters,'Professor','Security and Privacy','Theoretical Computer Science'
+Emmett Witchel,'Professor','Computer Architecture','Operating Systems, Distributed Systems, and Networking','Security and Privacy'
+David Wu,'Assistant Professor, Faculty Fellowship #5','Security and Privacy','Theoretical Computer Science'
+Xuesu Xiao,'Postdoctoral Researcher','Artificial Intelligence','Intelligent Robotics'
+William Young,'Associate Professor of Instruction ',
+Yulin Zhang,'Postdoctoral Researcher Fellow','Artificial Intelligence','Intelligent Robotics'
+Ruqi Zhang,'Postdoctoral Researcher','Machine Learning','Theoretical Computer Science'
+Yuke Zhu,'Assistant Professor','Artificial Intelligence','Computer Vision','Intelligent Robotics','Machine Learning'
+David Zuckerman ,'Professor, Professorship In Computer Sciences #1','Theoretical Computer Science'
+George Biros,'W. A. "Tex" Moncrief, Jr. Endowment in Simulation-Based Engineering and Sciences Chair No. 2 Professor, ','Bioinformatics and Computational Biology','Parallel Computing','Scientific Computing'
+Alan Bovik,'Cockrell Family Regents Chair in Engineering #3','Bioinformatics and Computational Biology','Computer Vision'
+Constantine Caramanis,'Professor in the in the Department of Electrical & Computer Engineering, William H. Hartwig Fellowship in Electrical Engineering','Artificial Intelligence','Operating Systems, Distributed Systems, and Networking','Theoretical Computer Science'
+Alexandros Dimakis,'Fluor Centennial Teaching Fellowship in Engineering #2 Associate Professor','Artificial Intelligence','Machine Learning'
+Ron Elber,'W.A. "Tex" Moncrief Chair in Computational Life Sciences and Biology Professor','Bioinformatics and Computational Biology'
+Katrin Erk,'Professor, Department of Linguistics','Artificial Intelligence','Natural Language Processing'
+Vijay K Garg,'Cullen Trust for Higher Education Endowed Professorship in Engineering #5','Operating Systems, Distributed Systems, and Networking','Parallel Computing'
+Omar Ghattas,'John A. and Katherine G. Jackson Chair in Computational Geosciences Professor','Bioinformatics and Computational Biology','Graphics and Visualization','Operating Systems, Distributed Systems, and Networking'
+Joydeep Ghosh,'Schlumberger Centennial Chair in Electrical Engineering Professor','Artificial Intelligence','Machine Learning','Operating Systems, Distributed Systems, and Networking'
+Lizy K John,'Cullen Trust for Higher Education Endowed Professor','Computer Architecture','Operating Systems, Distributed Systems, and Networking'
+Matthew Lease,'Professor, School of Information','Artificial Intelligence','Natural Language Processing'
+Rudolf Lioutikov,'Assistant Professor of Practice, College of Natural Sciences','Artificial Intelligence','Machine Learning'
+J. Tinsley Oden ,'Associate Vice President for Research, Founding Director of Institute for Computational Engineering and Sciences, Cockrell Family Regents’ Chair in Engineering #2,','Graphics and Visualization'
+David Zhigang Pan,'Professor, Silicon Laboratories Endowed Chair, Department of Electrical & Computer Engineering','Artificial Intelligence','Computer Architecture'
+Yale N. Patt,'Professor, Department of Electrical and Computer Engineering','Computer Architecture','Operating Systems, Distributed Systems, and Networking'
+Ufuk Topcu,"Associate Professor Cockrell Family Dean's Chair for Engineering Excellence",'Artificial Intelligence','Formal Methods','Intelligent Robotics'
+Atlas Wang,'Fellow of the Jack Kilby/Texas Instruments Endowed Faculty Fellowship in Computer Engineering','Computer Vision','Machine Learning'
+Andrew Whinston,'Hugh Roy Cullen Centennial Chair in Business Administration','Artificial Intelligence'
+Karen E. Willcox,"Director, Oden Institute for Computational Engineering and Sciences, W. A. “Tex” Moncrief, Jr. Chair in Simulation-Based Engineering and Sciences\u2028, Peter O'Donnell, Jr. Centennial Chair in Computing Systems",'Graphics and Visualization','Operating Systems, Distributed Systems, and Networking','Scientific Computing'
